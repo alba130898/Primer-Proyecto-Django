@@ -1,2 +1,2 @@
 # Primer-Proyecto-Django
-Se encuentra mi primer proyecto en Django
+Mi primer proyecto en Django
